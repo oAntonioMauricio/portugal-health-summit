@@ -21,6 +21,11 @@
 
     .hero {
         width: 90%;
+        margin-top: 100px;
+    }
+
+    .container {
+        justify-content: start;
     }
 
 }
